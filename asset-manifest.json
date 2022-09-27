@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dbreact/static/css/main.aee6ea70.css",
+    "main.js": "/dbreact/static/js/main.1823b1bb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/dbreact/static/js/787.28cb0dcd.chunk.js",
+    "static/media/banner-2.jpg": "/dbreact/static/media/banner-2.d8bf5f3647bbe2e4d58c.jpg",
+    "static/media/testimonial.jpg": "/dbreact/static/media/testimonial.2be2dc1f910a539572b3.jpg",
+    "static/media/banner-1.jpg": "/dbreact/static/media/banner-1.9c99bd6228bb2821550f.jpg",
+    "static/media/about-half-1.jpg": "/dbreact/static/media/about-half-1.9ae928b73c2819e4ce69.jpg",
+    "static/media/thom-home-tile-4.jpg": "/dbreact/static/media/thom-home-tile-4.f52f4e9ac05187b447f4.jpg",
+    "static/media/thom-home-tile-1.jpg": "/dbreact/static/media/thom-home-tile-1.d8c9121fef6d6789f9bf.jpg",
+    "static/media/made-in-india.jpg": "/dbreact/static/media/made-in-india.02dd8434d6b2e77091df.jpg",
+    "static/media/thom-home-tile-3.jpg": "/dbreact/static/media/thom-home-tile-3.32deabf9af1ac0e19139.jpg",
+    "static/media/product-1.jpg": "/dbreact/static/media/product-1.e83b3aaff7825eabd2f3.jpg",
+    "static/media/thom-home-tile-2.jpg": "/dbreact/static/media/thom-home-tile-2.3c8ded882d72e8effafe.jpg",
+    "static/media/about-half-2.jpg": "/dbreact/static/media/about-half-2.8779a956fc682fc30269.jpg",
+    "static/media/about-half-3.jpg": "/dbreact/static/media/about-half-3.247e87a1c610a9b49604.jpg",
+    "static/media/about-half-4.jpg": "/dbreact/static/media/about-half-4.24670923a713f9f86465.jpg",
+    "static/media/catg-1.jpg": "/dbreact/static/media/catg-1.94443db6298fce44b404.jpg",
+    "static/media/logo.png": "/dbreact/static/media/logo.864a07a9d345409cbeab.png",
+    "index.html": "/dbreact/index.html",
+    "main.aee6ea70.css.map": "/dbreact/static/css/main.aee6ea70.css.map",
+    "main.1823b1bb.js.map": "/dbreact/static/js/main.1823b1bb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/dbreact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aee6ea70.css",
+    "static/js/main.1823b1bb.js"
+  ]
+}
