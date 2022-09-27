@@ -1,0 +1,21 @@
+footer ul{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 0 0;
+}
+footer ul li a{
+    color: #000;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+footer ul li a:hover{
+    text-decoration: underline;
+    color: var(--high-color);
+}
+.footer-logo{
+    filter: drop-shadow(1px 2px 1px #cecdcd);
+}

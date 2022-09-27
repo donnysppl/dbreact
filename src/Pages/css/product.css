@@ -1,0 +1,57 @@
+.product-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    transition: 0.5s;
+}
+.product-card-title {
+    margin-bottom:15px;
+}
+h5.card-title {
+    line-height: 140%;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.product-card-read-more a {
+    color: #000;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+    position: relative;
+    padding-left: 26px;
+    transition: padding 0.5s;
+    text-transform: uppercase;
+}
+.product-card-read-more a::before {
+    position: absolute;
+    content: "";
+    width: 20px;
+    height: 2px;
+    background-color: #000;
+    top: 50%;
+    left: 0;
+    border-radius: 5px;
+    transition: width 0.5s;
+}
+.product-card:hover{
+    cursor: pointer;
+    border-color: var(--high-color);
+    scale: 1.04;
+}
+.product-card:hover .product-card-read-more a {
+    color: var(--high-color);
+    padding-left: 60px;
+    font-weight: 600;
+}
+.product-card:hover .product-card-read-more a::before {
+    background-color: var(--high-color);
+    width: 50px;
+}
+.product-slider .swiper-slide {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.product-slider .mySwiper2 .swiper-slide.swiper-slide-active{
+    border-color: var(--high-color);
+}
